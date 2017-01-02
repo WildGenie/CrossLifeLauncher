@@ -1,0 +1,10 @@
+<?xml version=\"1.0\"?>
+<root>
+    <game_name>TestGame</game_name>
+    <game_exe>Test.exe</game_exe>
+    <game_url>URL Opens when user click to game logo</game_url>
+    <check_version_url>http://gamesite.com/getLastVersionNumber</check_version_url>
+    <patches_directory>http://gamesite.com/patches/</patches_directory>
+    <news_url>News loading from here</news_url>
+    <publisher_url>URL Opens when user click to game logo</publisher_url>
+</root>
